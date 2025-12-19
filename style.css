@@ -68,6 +68,7 @@ body {
 #balance {
     position: relative;
     height: 70%;
+    max-width: 90%;
     aspect-ratio: 1 / 1; 
 
     background-image: url('./img/balance.png');
