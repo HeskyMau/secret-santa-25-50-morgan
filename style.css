@@ -124,7 +124,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%) scale(0.8); /* Centrage parfait et un peu plus petit */
     
-    width: 100%;
+    width: 150%;
     padding: 20px;
     background: rgba(26, 11, 46, 0.95); /* Violet très sombre et opaque */
     border: 1px solid rgba(157, 78, 221, 0.5);
