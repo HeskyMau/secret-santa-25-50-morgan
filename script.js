@@ -8,7 +8,7 @@ const contents = [
     "Dans une autre vie, beaucoup plus jeune, tu jettes un souafle à la tête d'un jeune homme aux cheveux noirs. Puis tu te vois poursuivre ton aventure avec lui, tous deux perchés sur des balais, dans un stade avec une foule en fureur.",
     "Ooouh, le cristal magique...",
     "Horglup",
-    "PHOTOBOMB",
+    "PHOTOBOMB <div class=\"img-container\"><img src=\"./img/batman.jpg\" alt=\"batman\" class=\"memories\" /> <img src=\"./img/idk.jpg\" alt=\"idk\" class=\"memories\" /></div>",
     "Dans la brume anglaise d'un matin d'hiver, tu peux sentir quelques flocons tomber sur tes cheveux. Lorsque tu tentes de les retirer, tu t'aperçois que la quantité s'accentue. Devant toi, un livre apparaît sous les flocons qui disparaissent. Tu peux y lire des inscriptions runiques d'un auteur allemand et un petit mot dans le coin de la première page : \"Peut-être que celui-ci, tu ne l'as pas encore lu\".",
     "Une fois, tu as envoyé une longue lettre dans laquelle tu as mis toute ta créativité. C'était le 3 avril 2023, lorsque tu as fait part de ton souhait de donner vie à l'Allée des Embrumes. A ce moment-là, cette jeune blonde ne pensait pas avoir fait la rencontre d'une commerçante bienveillante, pleine d'idées et à qui, presque deux ans plus tard, elle passerait le flambeau en lui faisant entièrement confiance.",
     "42",
